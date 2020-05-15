@@ -1,0 +1,9 @@
+[submodule "w3schools_replica"]
+	path = w3schools_replica
+	url = https://github.com/Ganesh2598/w3schools_replica
+[submodule "newspaper_distribution"]
+	path = newspaper_distribution
+	url = https://github.com/Ganesh2598/newspaper_distribution
+[submodule "Todo-app-with-ReactJS"]
+	path = Todo-app-with-ReactJS
+	url = https://github.com/Ganesh2598/Todo-app-with-ReactJS
