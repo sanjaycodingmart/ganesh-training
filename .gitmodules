@@ -13,6 +13,9 @@
 [submodule "react-nodejs-express-postgres"]
 	path = react-nodejs-express-postgres
 	url = https://github.com/Ganesh2598/react-nodejs-express-postgres
+[submodule "todoapp-with-heroku"]
+	path = todoapp-with-heroku
+	url = https://github.com/Ganesh2598/todoapp-with-heroku
 
 
 [submodule "React-Infinite-Scroll"]
