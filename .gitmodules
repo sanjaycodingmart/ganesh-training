@@ -15,3 +15,6 @@
 	url = https://github.com/Ganesh2598/react-nodejs-express-postgres
 
 
+[submodule "React-Infinite-Scroll"]
+	path = React-Infinite-Scroll
+	url = https://github.com/Ganesh2598/React-Infinite-Scroll
