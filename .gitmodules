@@ -18,6 +18,3 @@
 	url = https://github.com/Ganesh2598/todoapp-with-heroku
 
 
-[submodule "React-Infinite-Scroll"]
-	path = React-Infinite-Scroll
-	url = https://github.com/Ganesh2598/React-Infinite-Scroll
