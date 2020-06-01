@@ -19,5 +19,5 @@
 
 
 [submodule "React-Infinite-Scroll"]
-	path = React-infinite-scroll
+	path = React-Infinite-Scroll
 	url = https://github.com/Ganesh2598/React-infinite-scroll
