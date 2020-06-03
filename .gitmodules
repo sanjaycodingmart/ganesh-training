@@ -21,3 +21,6 @@
 [submodule "React-Infinite-Scroll"]
 	path = React-Infinite-Scroll
 	url = https://github.com/Ganesh2598/React-Infinite-Scroll
+[submodule "infinite-scroll-using-hooks"]
+	path = infinite-scroll-using-hooks
+	url = https://github.com/Ganesh2598/infinite-scroll-using-hooks.git
