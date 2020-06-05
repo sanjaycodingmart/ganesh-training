@@ -24,3 +24,6 @@
 [submodule "infinite-scroll-using-hooks"]
 	path = infinite-scroll-using-hooks
 	url = https://github.com/Ganesh2598/infinite-scroll-using-hooks.git
+[submodule "Role-based-Authentication"]
+	path = Role-based-Authentication
+	url = https://github.com/Ganesh2598/Role-based-Authentication.git
