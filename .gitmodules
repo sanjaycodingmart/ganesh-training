@@ -27,3 +27,6 @@
 [submodule "Role-based-Authentication"]
 	path = Role-based-Authentication
 	url = https://github.com/Ganesh2598/Role-based-Authentication.git
+[submodule "session-based-authentication"]
+	path = session-based-authentication
+	url = https://github.com/Ganesh2598/session-based-authentication.git
