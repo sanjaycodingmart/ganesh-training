@@ -33,3 +33,6 @@
 [submodule "todoapp-using-angular"]
 	path = todoapp-using-angular
 	url = https://github.com/Ganesh2598/todoapp-using-angular.git
+[submodule "angular-project"]
+	path = angular-project
+	url = https://github.com/Ganesh2598/angular-project
