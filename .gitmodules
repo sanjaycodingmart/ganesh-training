@@ -36,3 +36,6 @@
 [submodule "angular-project"]
 	path = angular-project
 	url = https://github.com/Ganesh2598/angular-project
+[submodule "CRUD_operation_in_Golang"]
+	path = CRUD_operation_in_Golang
+	url = https://github.com/Ganesh2598/CRUD_operation_in_Golang
