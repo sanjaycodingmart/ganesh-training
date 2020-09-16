@@ -39,3 +39,6 @@
 [submodule "CRUD_operation_in_Golang"]
 	path = CRUD_operation_in_Golang
 	url = https://github.com/Ganesh2598/CRUD_operation_in_Golang
+[submodule "Chatson_using_react_and_golang"]
+	path = Chatson_using_react_and_golang
+	url = https://github.com/Ganesh2598/Chatson_using_react_and_golang
