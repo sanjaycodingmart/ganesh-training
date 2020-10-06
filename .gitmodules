@@ -42,3 +42,6 @@
 [submodule "Chatson_using_react_and_golang"]
 	path = Chatson_using_react_and_golang
 	url = https://github.com/Ganesh2598/Chatson_using_react_and_golang
+[submodule "webpack_cra"]
+	path = webpack_cra
+	url = https://github.com/Ganesh2598/webpack_cra
