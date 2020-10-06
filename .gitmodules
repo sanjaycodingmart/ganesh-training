@@ -7,9 +7,6 @@
 [submodule "Todo-app-with-ReactJS"]
 	path = Todo-app-with-ReactJS
 	url = https://github.com/Ganesh2598/Todo-app-with-ReactJS
-[submodule "TODO-LIST-APP"]
-	path = TODO-LIST-APP
-	url = https://github.com/Ganesh2598/TODO-LIST-APP.git
 [submodule "react-nodejs-express-postgres"]
 	path = react-nodejs-express-postgres
 	url = https://github.com/Ganesh2598/react-nodejs-express-postgres
