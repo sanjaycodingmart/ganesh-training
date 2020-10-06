@@ -13,6 +13,9 @@
 [submodule "todoapp-with-heroku"]
 	path = todoapp-with-heroku
 	url = https://github.com/Ganesh2598/todoapp-with-heroku
+[submodule "TODO-LIST-APP"]
+	path = TODO-LIST-APP
+	url = https://github.com/Ganesh2598/TODO-LIST-APP
 
 
 [submodule "React-Infinite-Scroll"]
