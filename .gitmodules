@@ -43,3 +43,6 @@
 [submodule "webpack_cra"]
 	path = webpack_cra
 	url = https://github.com/Ganesh2598/webpack_cra
+[submodule "webpack-cra"]
+	path = webpack-cra
+	url = https://github.com/Ganesh2598/webpack-cra.git
